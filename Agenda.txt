@@ -1,0 +1,7 @@
+Agenda
+
+End to end Data Science project
+
+1.Git and git hub repository setup
+2.Project Setup
+3.Requirement.txt
